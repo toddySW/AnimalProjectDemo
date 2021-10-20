@@ -1,5 +1,4 @@
 function Lion() {
-	// body...
 	this.stomach = [];
 }
 
