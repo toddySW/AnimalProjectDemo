@@ -5,3 +5,7 @@ function Mouse(name) {
 Mouse.prototype.run = function() {
 	console.log('running....');
 };
+
+Mouse.prototype.jump = function() {
+	console.log('jumping....');
+};
